@@ -1,1 +1,5 @@
-# information-gathering
+# 信息搜集
+
+信息搜集脚本
+
+包含 whois、端口、C段、子域名
